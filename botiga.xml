@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<botiga>
+    <!-- Producte 1 -->
+    <!--Codi únic del client amb id-->
+    <producte id="BRI21">
+        <informacio>
+            <!-- Nom del producte -->
+            <nom>Cortines de lana de alpaca</nom>
+            <!-- Descripció del producte -->
+            <descripcio>Renueva tus espacios con nuestras elegantes cortinas. Diseños modernos, materiales de alta calidad y variedad de colores para darle estilo y calidez a tu hogar. </descripcio>
+        </informacio>
+        <!--Preu del producte amb atribut de moneda "EUR" -->
+        <preu moneda="EUR">533.11</preu>
+        <!--Categoria del producte-->
+        <categoria>Hogar</categoria>
+        <!--Disponibilitat del producte-->
+        <disponibilitat>Exhaurit</disponibilitat>
+        <!-- URL de la imatge del producte -->
+        <imatge>https://cdn.laredoute.com/cdn-cgi/image/width=1200,height=1200,fit=pad,dpr=1/products/c/0/3/c030a1e3377efef218d881e318393f46.jpg</imatge>
+    </producte>
+
+    <!--Producte 2 -->
+    <!--Codi únic del client amb id-->
+    <producte id="SAM09">
+        <informacio>
+            <!-- Nom del producte -->
+            <nom>Doritos</nom>
+            <!-- Descripció del producte -->
+            <descripcio>DORITOS® es mas que chips y dips – a traves de sus crunch y sabores icónicos, Doritos enciende tu atrevimiento!</descripcio>
+        </informacio>
+        <!--Preu del producte amb atribut de moneda "EUR" -->
+        <preu moneda="EUR">1.85</preu>
+        <!--Categoria del producte-->
+        <categoria>Comida</categoria>
+        <!--Disponibilitat del producte-->
+        <disponibilitat>Estoc</disponibilitat>
+        <!-- URL de la imatge del producte -->
+        <imatge>https://m.media-amazon.com/images/I/71S5d3Wz7xL._AC_UF1000,1000_QL80_.jpg</imatge>
+    </producte>
+
+    <!--Producte 3-->
+    <!--Codi únic del client amb id-->
+    <producte id="HOLA1">
+        <informacio>
+            <!-- Nom del producte -->
+            <nom>Lotus Biscoff</nom>
+            <!-- Descripció del producte -->
+            <descripcio>Lotus Biscoff es una galleta con una textura sorprendentemente crujiente y un sabor muy característico.</descripcio>
+        </informacio>
+        <!--Preu del producte amb atribut de moneda "EUR" -->
+        <preu moneda="EUR">13.91</preu>
+        <!--Categoria del producte-->
+        <categoria>Comida</categoria>
+        <!--Disponibilitat del producte-->
+        <disponibilitat>Exhaurit</disponibilitat>
+        <!-- URL de la imatge del producte -->
+        <imatge>https://m.media-amazon.com/images/I/81EJ7vCMyWL.jpg</imatge>
+    </producte>
+</botiga>
