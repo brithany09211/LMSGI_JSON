@@ -19,24 +19,37 @@
           "resistència": 4
         },
         "moviments": [
-          {
+            {
             "nom": "Bomba àcida",
             "descripció": "Bomba àcida causa mal i sempre redueix a 2 nivells la defensa especial de l'objectiu.",
             "potència": 40,
             "precisió": 100,
             "contacte": false
-          },
-          {
+            },
+            {
             "nom": "Abrecamí",
-            "descripció": "Abrecaminos causa daño y aumenta en un nivel la velocidad del usuario.",
+            "descripció": "Abrecamins causa mal i augmenta en un nivell la velocitat de l'usuari.",
             "potència": 50,
             "precisió": 100,
             "contacte": true  
-          }       
+            }       
         ],
 
         "imatge": "https://toysonejapan.com/cdn/shop/files/001_165_d4fed2f4-74e5-4102-9817-e0c4993c9875_700x700.webp?v=1726729208",
-        "evolucions": []
+        "evolucions": [
+            {
+            "id": 2007,
+            "nom": "Ivysaur",
+            "informacio": "Bulbasaur evoluciona a Ivysaur en aconseguir el suficient nivell",
+            "nivel": 16
+            },
+            {
+            "id": 2008,
+            "nom": "Venusaur",
+            "informacio": "Ivysaur evoluciona a Venusau en aconseguir el suficient nivell",
+            "nivel": 13
+            }
+        ]
       },
       {
         "id": 2000,
@@ -57,17 +70,68 @@
           "resistència": 4
         },
         "moviments": [
-          {
+            {
             "nom": "Mossegada",
             "descripció": "Moseegada és un moviment de tipus normal que causa mal i té una probabilitat del 10% d'acovardir l'objectiu",
             "potència": 35,
             "precisió": 95,
             "contacte": true
-          }
+            },
+            {
+            "nom": "Grunyit",
+            "descripció": "Grunyit és un moviment de so que baixa un nivell l' atac de l' objectiu . En combats dobles i triples afecta els oponents adjacents.",
+            "potència": null,
+            "precisió": 100,
+            "contacte": false
+            }
         ],
 
         "imatge": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_205.png",
-        "evolucions": []
+        "evolucions": [        
+            {
+            "id": 2011,
+            "nom": "Vaporeon",
+            "informacio": "Exposició a una pedra aigua"
+            },
+            {
+            "id": 2012,
+            "nom": "Jolteon",
+            "informacio": "Exposició a una pedra tro"
+            },
+            {
+            "id": 2013,
+            "nom": "Flareon",
+            "informacio": "Exposició a una pedra foc"
+            },
+            {
+            "id": 2014,
+            "nom": "Espeon",
+            "informacio": "Nivell durant el dia amb amistat alta (fins la 7a generació)",
+            "nivel amistat": 220
+            },
+            {
+            "id": 2015,
+            "nom": "Umbreon",
+            "informacio": "Nivell durant la nit amb amistat alta (fins la 7a generació)",
+            "nivel amistat": 220
+            },
+            {
+            "id": 2016,
+            "nom": "Leafeon",
+            "informacio": "Nivell al costat d'una roca molsa o exposició a una pedra fulla"
+            },
+            {
+            "id": 2017,
+            "nom": "Glaceon",
+            "informacio": "Nivell al costat d'una roca gel o exposició a una pedra gel"
+            },
+            {
+            "id": 2018,
+            "nom": "Sylveon",
+            "informacio": "Nivell amb almenys 2 cors d'afecte i coneixent un moviment de tipus fada",
+            "nivel": 2 
+            }        
+        ]
       }
     ]
-  }
+} 
