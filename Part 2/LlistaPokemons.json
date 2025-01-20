@@ -40,13 +40,13 @@
             {
             "id": 2007,
             "nom": "Ivysaur",
-            "informacio": "Bulbasaur evoluciona a Ivysaur en aconseguir el suficient nivell",
+            "requeriments": "Bulbasaur evoluciona a Ivysaur en aconseguir el suficient nivell",
             "nivel": 16
             },
             {
             "id": 2008,
             "nom": "Venusaur",
-            "informacio": "Ivysaur evoluciona a Venusau en aconseguir el suficient nivell",
+            "requeriments": "Ivysaur evoluciona a Venusau en aconseguir el suficient nivell",
             "nivel": 13
             }
         ]
@@ -91,44 +91,44 @@
             {
             "id": 2011,
             "nom": "Vaporeon",
-            "informacio": "Exposició a una pedra aigua"
+            "requeriments": "Exposició a una pedra aigua"
             },
             {
             "id": 2012,
             "nom": "Jolteon",
-            "informacio": "Exposició a una pedra tro"
+            "requeriments": "Exposició a una pedra tro"
             },
             {
             "id": 2013,
             "nom": "Flareon",
-            "informacio": "Exposició a una pedra foc"
+            "requeriments": "Exposició a una pedra foc"
             },
             {
             "id": 2014,
             "nom": "Espeon",
-            "informacio": "Nivell durant el dia amb amistat alta (fins la 7a generació)",
+            "requeriments": "Nivell durant el dia amb amistat alta (fins la 7a generació)",
             "nivel amistat": 220
             },
             {
             "id": 2015,
             "nom": "Umbreon",
-            "informacio": "Nivell durant la nit amb amistat alta (fins la 7a generació)",
+            "requeriments": "Nivell durant la nit amb amistat alta (fins la 7a generació)",
             "nivel amistat": 220
             },
             {
             "id": 2016,
             "nom": "Leafeon",
-            "informacio": "Nivell al costat d'una roca molsa o exposició a una pedra fulla"
+            "requeriments": "Nivell al costat d'una roca molsa o exposició a una pedra fulla"
             },
             {
             "id": 2017,
             "nom": "Glaceon",
-            "informacio": "Nivell al costat d'una roca gel o exposició a una pedra gel"
+            "requeriments": "Nivell al costat d'una roca gel o exposició a una pedra gel"
             },
             {
             "id": 2018,
             "nom": "Sylveon",
-            "informacio": "Nivell amb almenys 2 cors d'afecte i coneixent un moviment de tipus fada",
+            "requeriments": "Nivell amb almenys 2 cors d'afecte i coneixent un moviment de tipus fada",
             "nivel": 2 
             }        
         ]
