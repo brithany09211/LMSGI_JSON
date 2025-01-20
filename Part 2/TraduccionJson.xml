@@ -34,6 +34,6 @@
     <friend>
         <name>Anna</name>
         <surname>Smith</surname>
-        <age>null</age>
+        <age></age>
     </friend>
 </friends>

@@ -1,0 +1,73 @@
+{
+    "pokemons": [
+      {
+        "id": 2006,
+        "nom": "Bulbasaur",
+        "tipus": ["planta", "verí"],
+        "pes": {
+          "valor": 6.9,
+          "unitat": "kg"
+        },
+        "alçada": {
+          "valor": 0.7,
+          "unitat": "m"
+        },
+        "estadistiques": {
+          "velocitat": 3,
+          "força": 3,
+          "precisió": 4,
+          "resistència": 4
+        },
+        "moviments": [
+          {
+            "nom": "Bomba àcida",
+            "descripció": "Bomba àcida causa mal i sempre redueix a 2 nivells la defensa especial de l'objectiu.",
+            "potència": 40,
+            "precisió": 100,
+            "contacte": false
+          },
+          {
+            "nom": "Abrecamí",
+            "descripció": "Abrecaminos causa daño y aumenta en un nivel la velocidad del usuario.",
+            "potència": 50,
+            "precisió": 100,
+            "contacte": true  
+          }       
+        ],
+
+        "imatge": "https://toysonejapan.com/cdn/shop/files/001_165_d4fed2f4-74e5-4102-9817-e0c4993c9875_700x700.webp?v=1726729208",
+        "evolucions": []
+      },
+      {
+        "id": 2000,
+        "nom": "Eevee",
+        "tipus": ["normal"],
+        "pes": {
+          "valor": 6.5,
+          "unitat": "kg"
+        },
+        "altura": {
+          "valor": 0.3,
+          "unitat": "m"
+        },
+        "estadistiques": {
+          "velocitat": 4,
+          "força": 4,
+          "precisió": 4,
+          "resistència": 4
+        },
+        "moviments": [
+          {
+            "nom": "Mossegada",
+            "descripció": "Moseegada és un moviment de tipus normal que causa mal i té una probabilitat del 10% d'acovardir l'objectiu",
+            "potència": 35,
+            "precisió": 95,
+            "contacte": true
+          }
+        ],
+
+        "imatge": "https://assets.pokemon.com/static-assets/content-assets/cms2/img/cards/web/SWSH8/SWSH8_EN_205.png",
+        "evolucions": []
+      }
+    ]
+  }
