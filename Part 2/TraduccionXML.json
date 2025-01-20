@@ -51,7 +51,7 @@
             "currency": "€",
             "amount": 999,
             "discount": 3,
-            "discount_type": "%"
+            "discount_sign": "%"
           },
           "characteristics": [
             "5000mAh battery",
